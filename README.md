@@ -10,10 +10,6 @@ A local RAG (Retrieval-Augmented Generation) application built with Streamlit an
 ### Document Processing and Query Results
 ![Document Processing and Query Results](images/query_results.png)
 
-*To add screenshots:*
-1. Take screenshots of your application
-2. Save them as `main_interface.png` and `query_results.png` in the `images` directory
-3. The images will automatically appear above
 
 ## Features
 
