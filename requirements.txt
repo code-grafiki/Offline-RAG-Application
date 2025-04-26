@@ -1,0 +1,14 @@
+streamlit
+langchain
+langchain-community
+chromadb
+ollama
+pypdf
+pytesseract
+Pillow
+tqdm
+unstructured
+python-docx
+openpyxl
+python-pptx
+beautifulsoup4
