@@ -2,6 +2,19 @@
 
 A local RAG (Retrieval-Augmented Generation) application built with Streamlit and LangChain. This application allows you to create a local knowledge base from your documents and interact with it using various LLM models through Ollama.
 
+## Screenshots
+
+### Main Interface
+![Local RAG Application Main Interface](images/main_interface.png)
+
+### Document Processing and Query Results
+![Document Processing and Query Results](images/query_results.png)
+
+*To add screenshots:*
+1. Take screenshots of your application
+2. Save them as `main_interface.png` and `query_results.png` in the `images` directory
+3. The images will automatically appear above
+
 ## Features
 
 - Document ingestion support for multiple file formats (PDF, TXT, DOCX, etc.)
