@@ -126,8 +126,8 @@ def get_installed_ollama_models():
     return ["llama3", "mistral", "gemma"]  # fallback list
 
 # --------- UI ---------
-st.set_page_config(page_title="🧠 Local RAG App", layout="wide")
-st.title("🧠 Offline RAG Application")
+st.set_page_config(page_title="✨ Local RAG App", layout="wide")
+st.title("✨ Offline RAG Application")
 
 config = load_user_config()
 
